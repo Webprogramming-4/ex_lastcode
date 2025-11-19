@@ -1,2 +1,11 @@
-# ex_lastcode
-코드 모음
+<!DOCTYPE html>
+<head>
+    <title>비동기</title>
+    <script defer src="비동기.js"></script>
+</head>
+<body>
+    <h1>비동기 예제</h1>
+    <button id="acync">비동기 실행</button>
+    <P id="acync"></P>
+</body>
+</html>
